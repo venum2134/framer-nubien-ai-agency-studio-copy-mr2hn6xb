@@ -1,0 +1,10 @@
+{
+  "name": "nubien-ai-agency-studio-copy",
+  "version": "1.0.0",
+  "type": "module",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18",
+    "framer-motion": ">=10"
+  }
+}
